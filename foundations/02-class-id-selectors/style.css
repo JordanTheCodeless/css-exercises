@@ -1,0 +1,15 @@
+.odd,p{
+    background-color: lightcoral;
+}
+.odd-Large{
+    font-size: 24px;
+}
+#numberTwo{
+    color:blue;
+    font-size: 32px;
+}
+#numberFour{
+    background-color: lawngreen;
+    font-weight:bold;
+    font-size: 22px;
+}
